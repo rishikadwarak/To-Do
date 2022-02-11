@@ -1,4 +1,3 @@
-To-Do.
+# To-Do
 
-
-Flutter app using Provider package for state management.
+Flutter mobile app using Provider package for state management.
